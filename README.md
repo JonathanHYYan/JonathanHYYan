@@ -5,7 +5,6 @@
 - 🤓 I mainly do front-end but have dabbled in server side projects!
 - 🙉 I’m currently learning everything 🤣
 - 👯 I’m interested in job offers in relation to React
-- 🏆 2021 Goals: Launch my first commisioned project!
 - 💪 Fun fact: I love to powerlift and read but not at the same time
 
 ### Connect with me:
