@@ -10,8 +10,8 @@
 ### Connect with me:
 
 <a href='https://www.linkedin.com/in/jonathan-yan-8806b87b/'>LinkedIn</a><br/>
-<a href='https://codepen.io/jyanhoyin'>Code Pen</a><br/>
-<a href='https://leetcode.com/jyan10/'>Leet Code</a>
+<a href='https://codepen.io/jyanhoyin'>CodePen</a><br/>
+<a href='https://leetcode.com/jyan10/'>LeetCode</a>
 <br />
 
 ### Languages and Tools:
