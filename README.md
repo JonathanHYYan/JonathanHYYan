@@ -2,8 +2,7 @@
 
 ## I'm a Front End Developer!!
 
-- 🤓 I mainly do front-end but have dabbled in server side projects!
-- 🙉 I’m currently learning everything 🤣
+- 🤓 Full stack with a focus on frontend!
 - 👯 I’m interested in job offers in relation to React
 - 💪 Fun fact: I love to powerlift and read but not at the same time
 
